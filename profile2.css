@@ -1,0 +1,25 @@
+.tertiary{
+    font-size: 30px;
+}
+footer{
+    background-color:#000000;
+	padding:5px 0px;
+	font-size:5pt;
+	text-align:center;
+	color:#FFFFFF;
+}
+
+
+
+ .trip{
+    width: 300px;
+    height: 200px;
+    }
+
+    .flex-container {
+        display: flex;
+      flex-wrap: wrap;
+      }
+      body {
+        background-color: aquamarine;
+    }
